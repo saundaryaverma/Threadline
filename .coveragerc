@@ -1,0 +1,7 @@
+[run]
+source = backend, evals
+omit = */tests/*
+
+[report]
+show_missing = true
+skip_covered = false
